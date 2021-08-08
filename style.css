@@ -31,11 +31,11 @@ ol {
     padding-left: 33px;
 }
 
-#grid article {
+#grid #article {
     padding-left: 25px;
 }
 
-@media(max-width:550px) {
+@media(max-width:800px) {
     #grid {
         display: block;
     }
